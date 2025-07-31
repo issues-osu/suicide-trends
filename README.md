@@ -6,6 +6,7 @@ This project analyzes suicide deaths in Santa Clara County, California, from 201
 It quantifies suicide rates across racial/ethnic, age, and gender groups; maps geographic disparities; recodes contributing conditions and causes of death; and fits statistical models to estimate trends and group differences.
 The paper for which this code was written is currently under review at the *American Journal of Preventive Medicine Focus.*
 
+The Medical Examiner data can be downloaded [here](https://data.sccgov.org/Health/Medical-Examiner-Coroner-Full-dataset/s3fb-yrjp/about_data)
 ## Data Sources
 
 - **Death Records**  
