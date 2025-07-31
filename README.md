@@ -20,8 +20,7 @@ The Medical Examiner data can be downloaded [here](https://data.sccgov.org/Healt
   Variables: Age-by-race-by-gender breakdowns for White, Black, Hispanic, and Asian groups
 
 - **Geospatial Data**  
-  File: `City_Spheres_of_Influence.geojson`  
-  Description: City-level geographic boundaries for mapping suicide rates
+  Description: City-level geographic boundaries for mapping suicide rates (not incorporated into the paper, but possible)
 
 ## Key Analytical Components
 
