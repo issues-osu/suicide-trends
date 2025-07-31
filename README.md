@@ -7,7 +7,8 @@ It quantifies suicide rates across racial/ethnic, age, and gender groups; maps g
 The paper for which this code was written is currently under review at the *American Journal of Preventive Medicine Focus.*
 
 The Medical Examiner data can be downloaded [here](https://data.sccgov.org/Health/Medical-Examiner-Coroner-Full-dataset/s3fb-yrjp/about_data)
-![Suicide Trend Over Time](suicide-trend.png)
+
+<img src="images/suicide-trend.png" alt="Suicide Trend Over Time" width="75%">
 
 ## Data Sources
 
