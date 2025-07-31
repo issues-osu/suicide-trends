@@ -8,7 +8,7 @@ The paper for which this code was written is currently under review at the *Amer
 
 The Medical Examiner data can be downloaded [here](https://data.sccgov.org/Health/Medical-Examiner-Coroner-Full-dataset/s3fb-yrjp/about_data)
 
-![Suicide Trend](images/suicide-trend.png)
+![Suicide Trend](suicide-trend.png)
 
 ## Data Sources
 
