@@ -85,3 +85,6 @@ library(broom)
 library(gtsummary)
 library(officer)
 library(flextable)
+
+#### Full citation
+Watson-Grace, A., Barboza-Salerno, G., Harrington, T., Shockley McCarthy, K., Chang, Y., Warren, K. (2025). A descriptive analysis of suicide trends by race, sex, and age categories in Santa Clara, California from 2018–2023. Manuscript under review, American Journal of Preventive Medicine Focus.
